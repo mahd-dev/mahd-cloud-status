@@ -21,6 +21,7 @@ status-website:
   logoUrl: https://mahd.cloud/assets/logo.svg
   theme: light
   themeUrl: https://status.mahd.cloud/mahd-theme.css
+  favicon: https://mahd.cloud/favicon.svg
   faviconSvg: https://mahd.cloud/favicon.svg
   name: Status.Mahd.Cloud
   introTitle: "Real-Time Status of Mahd.Cloud services"
