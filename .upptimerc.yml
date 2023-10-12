@@ -7,15 +7,21 @@ sites:
     url: https://console.mahd.cloud
   - name: Mahd S3 service
     url: https://s3.mahd.cloud
+    expectedStatusCodes:
+      - 403
   - name: Mahd CDN
     url: https://cdn.mahd.cloud
-
+    expectedStatusCodes:
+      - 403
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.mahd.cloud
   # baseUrl: /your-repo-name
   logoUrl: https://mahd.cloud/assets/logo.svg
+  theme: light
+  themeUrl: https://status.mahd.cloud/mahd-theme.css
+  faviconSvg: https://mahd.cloud/favicon.svg
   name: Status.Mahd.Cloud
   introTitle: "Real-Time Status of Mahd.Cloud services"
   introMessage: This is a status page which uses **real-time** data of our Mahd.Cloud services
