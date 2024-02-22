@@ -22,18 +22,20 @@
     "url": "https://auth.mahd.cloud/debug/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/auth.mahd.cloud.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 296,
-    "timeWeek": 352,
-    "timeMonth": 319,
-    "timeYear": 312,
-    "dailyMinutesDown": {}
+    "time": 311,
+    "timeDay": 241,
+    "timeWeek": 331,
+    "timeMonth": 315,
+    "timeYear": 311,
+    "dailyMinutesDown": {
+      "2024-02-22": 0
+    }
   },
   {
     "name": "S3",
@@ -78,9 +80,9 @@
     "slug": "mail",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
     "time": 501,
     "timeDay": 359,
@@ -88,7 +90,6 @@
     "timeMonth": 518,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2024-02-22": 8,
       "2024-02-09": 52,
       "2024-02-08": 20
     }
@@ -102,7 +103,7 @@
     "uptime": "60.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.30%",
+    "uptimeMonth": "58.36%",
     "uptimeYear": "60.51%",
     "time": 898,
     "timeDay": 810,
