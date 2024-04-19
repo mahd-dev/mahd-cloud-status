@@ -1,7 +1,7 @@
 url: https://s3.mahd.cloud
-status: up
-code: 403
-responseTime: 691
-lastUpdated: 2024-04-18T23:18:54.147Z
+status: down
+code: 502
+responseTime: 834
+lastUpdated: 2024-04-19T15:29:51.096Z
 startTime: 2023-10-12T19:04:15.063Z
 generator: Upptime <https://github.com/upptime/upptime>
