@@ -1,7 +1,7 @@
 url: https://cdn.mahd.cloud
-status: up
-code: 403
-responseTime: 878
-lastUpdated: 2024-04-29T23:17:35.998Z
+status: down
+code: 502
+responseTime: 340
+lastUpdated: 2024-04-30T11:28:39.801Z
 startTime: 2023-10-12T19:04:15.785Z
 generator: Upptime <https://github.com/upptime/upptime>
