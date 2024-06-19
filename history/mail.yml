@@ -1,7 +1,7 @@
 url: https://stalwart.mahd.email/jmap
-status: down
-code: 500
-responseTime: 859
-lastUpdated: 2024-06-19T18:30:42.504Z
+status: up
+code: 401
+responseTime: 452
+lastUpdated: 2024-06-19T18:41:08.129Z
 startTime: 2023-10-12T19:04:16.465Z
 generator: Upptime <https://github.com/upptime/upptime>
