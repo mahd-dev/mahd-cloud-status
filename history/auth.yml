@@ -1,7 +1,7 @@
 url: https://auth.mahd.cloud/debug/healthz
 status: up
 code: 200
-responseTime: 293
-lastUpdated: 2024-06-28T23:19:59.561Z
+responseTime: 285
+lastUpdated: 2024-06-29T23:19:06.717Z
 startTime: 2023-10-12T19:04:14.368Z
 generator: Upptime <https://github.com/upptime/upptime>
